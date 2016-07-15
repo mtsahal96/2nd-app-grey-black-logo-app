@@ -40,6 +40,9 @@ class ViewController: UIViewController {
             blacklogo.hidden = false
             greylogo.hidden = false
         }
+
     }
+    //testing git
 }
+
 
